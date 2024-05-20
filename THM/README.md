@@ -1,10 +1,5 @@
 # 📝 TryHackMe | WriteUp
 
-- [x] [Simple CTF](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/Simple%20CTF.md)
-- [x] [Steel Mountain](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/Steel%20Mountain.md)
-- [x] [Alfred](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/Alfred.md)
-- [x] [Hackpark](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/HackPark.md)
-- [x] [Gamezone](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/GameZone.md)
 
 
 ---
@@ -12,214 +7,219 @@
 # TryHackMe CTF Challenges
 
 ## Easy CTF
-- [x] TryHackMe | Bulletproof Penguin
-- [x] TryHackMe | Hijack
-- [x] TryHackMe | Compiled
-- [x] TryHackMe | Super Secret TIp
-- [x] TryHackMe | Lesson Learned?
-- [x] TryHackMe | Grep
-- [x] TryHackMe | Red
-- [x] TryHackMe | Snapped "Phish"-ing Line
-- [x] TryHackMe | Cat Pictures 2
-- [x] TryHackMe | Flip
-- [x] TryHackMe | Valley!
-- [x] TryHackMe | Capture!
-- [x] TryHackMe | Opacity
-- [x] TryHackMe | LookBack
-- [x] TryHackMe | Bugged
-- [x] TryHackMe | GamingServer
-- [x] TryHackMe | Confidential
-- [x] TryHackMe | OverlayFS - CVE-2021-3493
-- [x] TryHackMe | Psycho Break
-- [x] TryHackMe | Bounty Hacker
-- [x] TryHackMe | Fowsniff CTF
-- [x] TryHackMe | RootMe
-- [x] TryHackMe | AttackerKB
-- [x] TryHackMe | Pickle Rick
-- [x] TryHackMe | c4ptur3-th3-fl4g
-- [x] TryHackMe | Library
-- [x] TryHackMe | Thompson
-- [x] TryHackMe | Simple CTF
-- [x] TryHackMe | LazyAdmin
-- [x] TryHackMe | Anonforce
-- [x] TryHackMe | Ignite
-- [x] TryHackMe | Wgel CTF
-- [x] TryHackMe | Kenobi
-- [x] TryHackMe | Dav
-- [x] TryHackMe | Ninja Skills
-- [x] TryHackMe | Ice
-- [x] TryHackMe | Lian_Yu
-- [x] TryHackMe | The Cod Caper
-- [x] TryHackMe | Blaster
-- [x] TryHackMe | Encryption - Crypto 101
-- [x] TryHackMe | Brooklyn Nine Nine
-- [x] TryHackMe | Year of the Rabbit
-- [x] TryHackMe | Jack-of-All-Trades
-- [x] TryHackMe | Madness
-- [x] TryHackMe | KoTH Food CTF
-- [x] TryHackMe | Easy Peasy
-- [x] TryHackMe | Tony the Tiger
-- [x] TryHackMe | CTF collection Vol.1
-- [x] TryHackMe | Smag Grotto
-- [x] TryHackMe | Couch
-- [x] TryHackMe | Source
-- [x] TryHackMe | Overpass
-- [x] TryHackMe | Gotta Catch'em All!
-- [x] TryHackMe | Bolt
-- [x] TryHackMe | Overpass 2 - Hacked
-- [x] TryHackMe | kiba
-- [x] TryHackMe | Poster
-- [x] TryHackMe | Chocolate Factory
-- [x] TryHackMe | Startup
-- [x] TryHackMe | Chill Hack
-- [x] TryHackMe | ColddBox: Easy
-- [x] TryHackMe | GLITCH
-- [x] TryHackMe | All in One
-- [x] TryHackMe | Archangel
-- [x] TryHackMe | Cyborg
-- [x] TryHackMe | Lunizz CTF
-- [x] TryHackMe | Badbyte
-- [x] TryHackMe | Team
-- [x] TryHackMe | VulnNet: Node
-- [x] TryHackMe | VulnNet: Internal
-- [x] TryHackMe | Atlas
-- [x] TryHackMe | VulnNet: Roasted
-- [x] TryHackMe | Cat Pictures
-- [x] TryHackMe | Mustacchio
+
+- [x] [Simple CTF](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/Simple%20CTF.md)
+- [x] [Steel Mountain](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/Steel%20Mountain.md)
+- [x] [Alfred](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/Alfred.md)
+- [x] [Hackpark](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/HackPark.md)
+- [x] [Gamezone](https://github.com/h0r0x/Vulnerable-Machines-Writeups-Collection/tree/main/THM/WriteUp/GameZone.md)
+- [ ] TryHackMe | Bulletproof Penguin
+- [ ] TryHackMe | Hijack
+- [ ] TryHackMe | Compiled
+- [ ] TryHackMe | Super Secret TIp
+- [ ] TryHackMe | Lesson Learned?
+- [ ] TryHackMe | Grep
+- [ ] TryHackMe | Red
+- [ ] TryHackMe | Snapped "Phish"-ing Line
+- [ ] TryHackMe | Cat Pictures 2
+- [ ] TryHackMe | Flip
+- [ ] TryHackMe | Valley!
+- [ ] TryHackMe | Capture!
+- [ ] TryHackMe | Opacity
+- [ ] TryHackMe | LookBack
+- [ ] TryHackMe | Bugged
+- [ ] TryHackMe | GamingServer
+- [ ] TryHackMe | Confidential
+- [ ] TryHackMe | OverlayFS - CVE-2021-3493
+- [ ] TryHackMe | Psycho Break
+- [ ] TryHackMe | Bounty Hacker
+- [ ] TryHackMe | Fowsniff CTF
+- [ ] TryHackMe | RootMe
+- [ ] TryHackMe | AttackerKB
+- [ ] TryHackMe | Pickle Rick
+- [ ] TryHackMe | c4ptur3-th3-fl4g
+- [ ] TryHackMe | Library
+- [ ] TryHackMe | Thompson
+- [ ] TryHackMe | LazyAdmin
+- [ ] TryHackMe | Anonforce
+- [ ] TryHackMe | Ignite
+- [ ] TryHackMe | Wgel CTF
+- [ ] TryHackMe | Kenobi
+- [ ] TryHackMe | Dav
+- [ ] TryHackMe | Ninja Skills
+- [ ] TryHackMe | Ice
+- [ ] TryHackMe | Lian_Yu
+- [ ] TryHackMe | The Cod Caper
+- [ ] TryHackMe | Blaster
+- [ ] TryHackMe | Encryption - Crypto 101
+- [ ] TryHackMe | Brooklyn Nine Nine
+- [ ] TryHackMe | Year of the Rabbit
+- [ ] TryHackMe | Jack-of-All-Trades
+- [ ] TryHackMe | Madness
+- [ ] TryHackMe | KoTH Food CTF
+- [ ] TryHackMe | Easy Peasy
+- [ ] TryHackMe | Tony the Tiger
+- [ ] TryHackMe | CTF collection Vol.1
+- [ ] TryHackMe | Smag Grotto
+- [ ] TryHackMe | Couch
+- [ ] TryHackMe | Source
+- [ ] TryHackMe | Overpass
+- [ ] TryHackMe | Gotta Catch'em All!
+- [ ] TryHackMe | Bolt
+- [ ] TryHackMe | Overpass 2 - Hacked
+- [ ] TryHackMe | kiba
+- [ ] TryHackMe | Poster
+- [ ] TryHackMe | Chocolate Factory
+- [ ] TryHackMe | Startup
+- [ ] TryHackMe | Chill Hack
+- [ ] TryHackMe | ColddBox: Easy
+- [ ] TryHackMe | GLITCH
+- [ ] TryHackMe | All in One
+- [ ] TryHackMe | Archangel
+- [ ] TryHackMe | Cyborg
+- [ ] TryHackMe | Lunizz CTF
+- [ ] TryHackMe | Badbyte
+- [ ] TryHackMe | Team
+- [ ] TryHackMe | VulnNet: Node
+- [ ] TryHackMe | VulnNet: Internal
+- [ ] TryHackMe | Atlas
+- [ ] TryHackMe | VulnNet: Roasted
+- [ ] TryHackMe | Cat Pictures
+- [ ] TryHackMe | Mustacchio
 
 ## Medium CTF
-- [x] TryHackMe | Profiles
-- [x] TryHackMe | Clocky
-- [x] TryHackMe | Hack Smarter Security
-- [x] TryHackMe | Kitty
-- [x] TryHackMe | Umbrella
-- [x] TryHackMe | AVenger
-- [x] TryHackMe | WhyHackMe
-- [x] TryHackMe | Stealth
-- [x] TryHackMe | Hunt Me I: Payment Collectors
-- [x] TryHackMe | Hunt Me II: Typo Squatters
-- [x] TryHackMe | Athena
-- [x] TryHackMe | Crylo
-- [x] TryHackMe | Forgotten Implant
-- [x] TryHackMe | Race Conditions
-- [x] TryHackMe | Weasel
-- [x] TryHackMe | Prioritise
-- [x] TryHackMe | Boogeyman 1
-- [x] TryHackMe | Mr Robot CTF
-- [x] TryHackMe | Unattended
-- [x] TryHackMe | GoldenEye
-- [x] TryHackMe | StuxCTF
-- [x] TryHackMe | Boiler CTF
-- [x] TryHackMe | HA Joker CTF
-- [x] TryHackMe | Biohazard
-- [x] TryHackMe | Break it
-- [x] TryHackMe | Willow
-- [x] TryHackMe | The Marketplace
-- [x] TryHackMe | Nax
-- [x] TryHackMe | Mindgames
-- [x] TryHackMe | Anonymous
-- [x] TryHackMe | Blog
-- [x] TryHackMe | Wonderland
-- [x] TryHackMe | 0day
-- [x] TryHackMe | Develpy
-- [x] TryHackMe | CTF collection Vol.2
-- [x] TryHackMe | CMesS
-- [x] TryHackMe | Deja Vu
-- [x] TryHackMe | hackerNote
-- [x] TryHackMe | dogcat
-- [x] TryHackMe | ConvertMyVideo
-- [x] TryHackMe | KoTH Hackers
-- [x] TryHackMe | Revenge
-- [x] TryHackMe | harder
-- [x] TryHackMe | HaskHell
-- [x] TryHackMe | Undiscovered
-- [x] TryHackMe | Break Out The Cage
-- [x] TryHackMe | The Impossible Challenge
-- [x] TryHackMe | Looking Glass
-- [x] TryHackMe | Recovery
-- [x] TryHackMe | Relevant
-- [x] TryHackMe | Ghizer
-- [x] TryHackMe | Mnemonic
-- [x] TryHackMe | WWBuddy
-- [x] TryHackMe | The Blob Blog
-- [x] TryHackMe | Cooctus Stories
-- [x] TryHackMe | One Piece
-- [x] TryHackMe | toc2
-- [x] TryHackMe | NerdHerd
-- [x] TryHackMe | Kubernetes Chall TDI 2020
-- [x] TryHackMe | The Server From Hell
-- [x] TryHackMe | Jacob the Boss
-- [x] TryHackMe | Unbaked Pie
-- [x] TryHackMe | Bookstore
-- [x] TryHackMe | Overpass 3 - Hosting
-- [x] TryHackMe | battery
-- [x] TryHackMe | Madeye's Castle
-- [x] TryHackMe | En-pass
-- [x] TryHackMe | Sustah
-- [x] TryHackMe | KaffeeSec - SoMeSINT
-- [x] TryHackMe | Tokyo Ghoul
-- [x] TryHackMe | Watcher
-- [x] TryHackMe | broker
-- [x] TryHackMe | Inferno
-- [x] TryHackMe | VulnNet: dotpy
-- [x] TryHackMe | Wekor
-- [x] TryHackMe | pyLon
-- [x] TryHackMe | The Great Escape
-- [x] TryHackMe | SafeZone
-- [x] TryHackMe | NahamStore
-- [x] TryHackMe | Sweettooth Inc.
-- [x] TryHackMe | CMSpit
-- [x] TryHackMe | Super-Spam
-- [x] TryHackMe | That's The Ticket
-- [x] TryHackMe | Debug
-- [x] TryHackMe | Red Stone One Carat
-- [x] TryHackMe | Cold VVars
-- [x] TryHackMe | Metamorphosis
-- [x] TryHackMe | SQHell
-- [x] TryHackMe | Fortress
-- [x] TryHackMe | CyberCrafted
-- [x] TryHackMe | Road
+- [ ] TryHackMe | Profiles
+- [ ] TryHackMe | Clocky
+- [ ] TryHackMe | Hack Smarter Security
+- [ ] TryHackMe | Kitty
+- [ ] TryHackMe | Umbrella
+- [ ] TryHackMe | AVenger
+- [ ] TryHackMe | WhyHackMe
+- [ ] TryHackMe | Stealth
+- [ ] TryHackMe | Hunt Me I: Payment Collectors
+- [ ] TryHackMe | Hunt Me II: Typo Squatters
+- [ ] TryHackMe | Athena
+- [ ] TryHackMe | Crylo
+- [ ] TryHackMe | Forgotten Implant
+- [ ] TryHackMe | Race Conditions
+- [ ] TryHackMe | Weasel
+- [ ] TryHackMe | Prioritise
+- [ ] TryHackMe | Boogeyman 1
+- [ ] TryHackMe | Mr Robot CTF
+- [ ] TryHackMe | Unattended
+- [ ] TryHackMe | GoldenEye
+- [ ] TryHackMe | StuxCTF
+- [ ] TryHackMe | Boiler CTF
+- [ ] TryHackMe | HA Joker CTF
+- [ ] TryHackMe | Biohazard
+- [ ] TryHackMe | Break it
+- [ ] TryHackMe | Willow
+- [ ] TryHackMe | The Marketplace
+- [ ] TryHackMe | Nax
+- [ ] TryHackMe | Mindgames
+- [ ] TryHackMe | Anonymous
+- [ ] TryHackMe | Blog
+- [ ] TryHackMe | Wonderland
+- [ ] TryHackMe | 0day
+- [ ] TryHackMe | Develpy
+- [ ] TryHackMe | CTF collection Vol.2
+- [ ] TryHackMe | CMesS
+- [ ] TryHackMe | Deja Vu
+- [ ] TryHackMe | hackerNote
+- [ ] TryHackMe | dogcat
+- [ ] TryHackMe | ConvertMyVideo
+- [ ] TryHackMe | KoTH Hackers
+- [ ] TryHackMe | Revenge
+- [ ] TryHackMe | harder
+- [ ] TryHackMe | HaskHell
+- [ ] TryHackMe | Undiscovered
+- [ ] TryHackMe | Break Out The Cage
+- [ ] TryHackMe | The Impossible Challenge
+- [ ] TryHackMe | Looking Glass
+- [ ] TryHackMe | Recovery
+- [ ] TryHackMe | Relevant
+- [ ] TryHackMe | Ghizer
+- [ ] TryHackMe | Mnemonic
+- [ ] TryHackMe | WWBuddy
+- [ ] TryHackMe | The Blob Blog
+- [ ] TryHackMe | Cooctus Stories
+- [ ] TryHackMe | One Piece
+- [ ] TryHackMe | toc2
+- [ ] TryHackMe | NerdHerd
+- [ ] TryHackMe | Kubernetes Chall TDI 2020
+- [ ] TryHackMe | The Server From Hell
+- [ ] TryHackMe | Jacob the Boss
+- [ ] TryHackMe | Unbaked Pie
+- [ ] TryHackMe | Bookstore
+- [ ] TryHackMe | Overpass 3 - Hosting
+- [ ] TryHackMe | battery
+- [ ] TryHackMe | Madeye's Castle
+- [ ] TryHackMe | En-pass
+- [ ] TryHackMe | Sustah
+- [ ] TryHackMe | KaffeeSec - SoMeSINT
+- [ ] TryHackMe | Tokyo Ghoul
+- [ ] TryHackMe | Watcher
+- [ ] TryHackMe | broker
+- [ ] TryHackMe | Inferno
+- [ ] TryHackMe | VulnNet: dotpy
+- [ ] TryHackMe | Wekor
+- [ ] TryHackMe | pyLon
+- [ ] TryHackMe | The Great Escape
+- [ ] TryHackMe | SafeZone
+- [ ] TryHackMe | NahamStore
+- [ ] TryHackMe | Sweettooth Inc.
+- [ ] TryHackMe | CMSpit
+- [ ] TryHackMe | Super-Spam
+- [ ] TryHackMe | That's The Ticket
+- [ ] TryHackMe | Debug
+- [ ] TryHackMe | Red Stone One Carat
+- [ ] TryHackMe | Cold VVars
+- [ ] TryHackMe | Metamorphosis
+- [ ] TryHackMe | SQHell
+- [ ] TryHackMe | Fortress
+- [ ] TryHackMe | CyberCrafted
+- [ ] TryHackMe | Road
 
 ## Hard CTF
-- [x] TryHackMe | Capture Returns
-- [x] TryHackMe | Chrome
-- [x] TryHackMe | Reset
-- [x] TryHackMe | Motunui
-- [x] TryHackMe | Spring
-- [x] TryHackMe | Brainpan 1
-- [x] TryHackMe | Borderlands
-- [x] TryHackMe | hc0n Christmas CTF
-- [x] TryHackMe | Daily Bugle
-- [x] TryHackMe | Retro
-- [x] TryHackMe | Jeff
-- [x] TryHackMe | Racetrack Bank
-- [x] TryHackMe | Dave's Blog
-- [x] TryHackMe | CherryBlossom
-- [x] TryHackMe | CCT2019
-- [x] TryHackMe | Iron Corp
-- [x] TryHackMe | Carpe Diem 1
-- [x] TryHackMe | Ra
-- [x] TryHackMe | Year of the Fox
-- [x] TryHackMe | For Business Reasons
-- [x] TryHackMe | Anonymous Playground
-- [x] TryHackMe | Misguided Ghosts
-- [x] TryHackMe | Theseus
-- [x] TryHackMe | Internal
-- [x] TryHackMe | Year of the Dog
-- [x] TryHackMe | You're in a cave
-- [x] TryHackMe | Year of the Owl
-- [x] TryHackMe | Year of the Pig
-- [x] TryHackMe | envizon
-- [x] TryHackMe | GameBuzz
-- [x] TryHackMe | Fusion Corp
-- [x] TryHackMe | Crocc Crew
-- [x] TryHackMe | Uranium CTF
-- [x] TryHackMe | Year of the Jellyfish
-- [x] TryHackMe | Rocket
-- [x] TryHackMe | Squid Game
-- [x] TryHackMe | EnterPrize
-- [x] TryHackMe | Different CTF
-- [x] TryHackMe | VulnNet: dotjar
-- [x] TryHackMe | M4tr1x: Exit Denied
-- [x] TryHackMe | Shaker
+- [ ] TryHackMe | Capture Returns
+- [ ] TryHackMe | Chrome
+- [ ] TryHackMe | Reset
+- [ ] TryHackMe | Motunui
+- [ ] TryHackMe | Spring
+- [ ] TryHackMe | Brainpan 1
+- [ ] TryHackMe | Borderlands
+- [ ] TryHackMe | hc0n Christmas CTF
+- [ ] TryHackMe | Daily Bugle
+- [ ] TryHackMe | Retro
+- [ ] TryHackMe | Jeff
+- [ ] TryHackMe | Racetrack Bank
+- [ ] TryHackMe | Dave's Blog
+- [ ] TryHackMe | CherryBlossom
+- [ ] TryHackMe | CCT2019
+- [ ] TryHackMe | Iron Corp
+- [ ] TryHackMe | Carpe Diem 1
+- [ ] TryHackMe | Ra
+- [ ] TryHackMe | Year of the Fox
+- [ ] TryHackMe | For Business Reasons
+- [ ] TryHackMe | Anonymous Playground
+- [ ] TryHackMe | Misguided Ghosts
+- [ ] TryHackMe | Theseus
+- [ ] TryHackMe | Internal
+- [ ] TryHackMe | Year of the Dog
+- [ ] TryHackMe | You're in a cave
+- [ ] TryHackMe | Year of the Owl
+- [ ] TryHackMe | Year of the Pig
+- [ ] TryHackMe | envizon
+- [ ] TryHackMe | GameBuzz
+- [ ] TryHackMe | Fusion Corp
+- [ ] TryHackMe | Crocc Crew
+- [ ] TryHackMe | Uranium CTF
+- [ ] TryHackMe | Year of the Jellyfish
+- [ ] TryHackMe | Rocket
+- [ ] TryHackMe | Squid Game
+- [ ] TryHackMe | EnterPrize
+- [ ] TryHackMe | Different CTF
+- [ ] TryHackMe | VulnNet: dotjar
+- [ ] TryHackMe | M4tr1x: Exit Denied
+- [ ] TryHackMe | Shaker
 
